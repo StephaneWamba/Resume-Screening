@@ -18,7 +18,6 @@ This project focuses on the development of an automated Resume Classification Sy
 - **NLTK**: For natural language processing tasks.
 - **Scikit-learn**: For machine learning model development and text vectorization.
 - **Streamlit**: For creating the interactive web application.
-- **Heroku**: For deploying the web application.
 
 ## Model Development
 
@@ -28,10 +27,6 @@ The project encompasses several stages of development:
 2. **Feature Engineering**: Extracting meaningful features using NLP techniques and one-hot encoding.
 3. **Model Training and Evaluation**: Logistic Regression model trained and evaluated with cross-validation.
 4. **Web Application Development**: Streamlit app for real-time resume classification.
-
-## Deployment
-
-The web application is deployed on Heroku, making the tool accessible for real-time use. Users can upload resumes in PDF format, which are then processed and classified by the system.
 
 ## Getting Started
 
