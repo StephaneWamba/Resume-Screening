@@ -37,3 +37,7 @@ git clone https://github.com/StephaneWamba/resume-classification-system.git
 cd resume-classification-system
 pip install -r requirements.txt
 streamlit run app.py
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
