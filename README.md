@@ -33,7 +33,7 @@ The project encompasses several stages of development:
 To use this project, clone the repository and install the required Python packages. Instructions for running the Streamlit app locally are included.
 
 ```bash
-git clone https://github.com/StephaneWamba/resume-classification-system.git
+git clone https://github.com/StephaneWamba/Resume-Screening.git
 cd resume-classification-system
 pip install -r requirements.txt
 streamlit run app.py
