@@ -30,7 +30,7 @@ The project encompasses several stages of development:
 
 ## Getting Started
 
-To use this project, clone the repository and install the required Python packages. Instructions for running the Streamlit app locally and deploying to Heroku are included.
+To use this project, clone the repository and install the required Python packages. Instructions for running the Streamlit app locally are included.
 
 ```bash
 git clone https://github.com/StephaneWamba/resume-classification-system.git
